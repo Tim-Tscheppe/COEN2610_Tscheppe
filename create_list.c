@@ -1,5 +1,5 @@
 /* create_list.c - create file 100 lines long  with numbers from 000-999 (Prev. 00-99) 
-   @MarquetteU  - F. Frigo, T. Tschepe
+   @MarquetteU  - F. Frigo, T. Tscheppe
    COEN 2610
    To compile: cc -g create_list.c -o create_list
    To check the number of lines in file use: `wc -l list.txt`
