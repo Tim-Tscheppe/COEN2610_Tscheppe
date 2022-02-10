@@ -1,4 +1,4 @@
-/* find3.c - Open file and count the number of '3' characters found 
+/* find3.c - Open lambeau.jpg file and count the number of '3' characters found 
    @MarquetteU  - F. Frigo, T. Tscheppe
    COEN 2610
    To compile: cc -g find3.c -o find3
